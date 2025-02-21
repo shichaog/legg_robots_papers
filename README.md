@@ -3,7 +3,7 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 # Quadruped Locomotion
 
-** Diverse Real **
+**Diverse Real**
 
 [Jenelten F, He J, Farshidian F, Hutter M. 2023.9 DTC: Deep tracking control. Sci. Robot.](https://arxiv.org/pdf/2309.15462)
 
@@ -17,7 +17,7 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 [Gangapurwala S, Geisert M, Orsolino R, Fallon M, Havoutis I. 2022.5 RLOC: Terrain-awarelegged locomotion using reinforcement learning and optimal control.](https://arxiv.org/pdf/2012.03094)
 
-[Miki T, Lee J, Hwangbo J, Wellhausen L, Koltun V, Hutter M. 2022.1 Learning robust perceptive locomotion for quadrupedal robots in the wild. Sci. Robot.](https://arxiv.org/pdf/2201.08117
+[Miki T, Lee J, Hwangbo J, Wellhausen L, Koltun V, Hutter M. 2022.1 Learning robust perceptive locomotion for quadrupedal robots in the wild. Sci. Robot.](https://arxiv.org/pdf/2201.08117)
 
 [Kumar A, Fu Z, Pathak D, Malik J. 2021.7 RMA: Rapid motor adaptation for legged robots. In Robot. Sci. Syst.](https://arxiv.org/pdf/2107.04034)
 
