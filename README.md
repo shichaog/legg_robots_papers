@@ -23,7 +23,7 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 [Lee J, Hwangbo J, Wellhausen L, Koltun V, Hutter M. 2020.10 Learning quadrupedal locomotion over challenging terrain. Sci. Robot.](https://arxiv.org/pdf/2010.11251)超高引用率文章
 
-** Limited Real **
+**Limited Real**
 
 [Zhuang Z, Fu Z, Wang J, Atkeson CG, Schwertfeger S, et al. 2023.11 Robot parkour learning. InConf. Robot. Learn. PMLR](https://arxiv.org/abs/2309.05665)
 
@@ -45,13 +45,13 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 [Yang C, Yuan K, Zhu Q, Yu W, Li Z. 2020.9 Multi-expert learning of adaptive legged locomotion. Sci. Robot. 5(49):eabb2174](https://arxiv.org/pdf/2012.05810)
 
-** Diverse Lab **
+**Diverse Lab**
 
 [Feng G, Zhang H, Li Z, Peng XB, Basireddy B, et al. 2022.9 Genloco: Generalized locomotion controllers for quadrupedal robots. In Conference on Robot Learning](https://arxiv.org/abs/2209.05309)
 
 [Lee J, Hwangbo J, Hutter M. 2019.1 Robust recovery controller for a quadrupedal robot using deep reinforcement learning.](https://arxiv.org/abs/1901.07517)
 
-** Limited Lab ** 
+**Limited Lab** 
 
 [Ma Y, Farshidian F, Hutter M. 2023.5 Learning arm-assisted fall damage reduction and recovery for legged mobile manipulators.](https://arxiv.org/abs/2303.05486)
 
@@ -65,9 +65,9 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 # biped locomotion
 
-** Diverse Real **
+**Diverse Real**
 
-** Limited Real **
+**Limited Real**
 [Li Z, Peng XB, Abbeel P, Levine S, Berseth G, Sreenath K. 2024.1 Reinforcement learning for versatile, dynamic, and robust bipedal locomotion control.](https://arxiv.org/abs/2401.16889)
 
 [Radosavovic I, Xiao T, Zhang B, Darrell T, Malik J, Sreenath K. 2023.5 Real-world humanoid locomotion with reinforcement learning.](https://arxiv.org/abs/2303.03381)
@@ -78,12 +78,12 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 [Siekmann J, Green K, Warila J, Fern A, Hurst J. 2021.5 Blind Bipedal Stair Traversal via Sim-to-Real Reinforcement Learning.](https://arxiv.org/abs/2105.08328)
 
-** Diverse Lab **
+**Diverse Lab**
 [Duan H, Pandit B, Gadde MS, van Marum BJ, Dao J, et al. 2023.9 Learning vision-based bipedal locomotion for challenging terrain.](https://arxiv.org/abs/2309.14594)
 
 [Kumar A, Li Z, Zeng J, Pathak D, Sreenath K, Malik J. 2022.9 Adapting rapid motor adaptation for bipedal robots. ](https://arxiv.org/pdf/2205.15299)
 
-** Limited Lab ** 
+**Limited Lab** 
 [Siekmann J, Godse Y, Fern A, Hurst J. 2020.11 Sim-to-real learning of all common bipedal gaits via periodic reward composition. ](https://arxiv.org/abs/2011.01387)
 
 [Hanna JP, Desai S, Karnan H, Warnell G, Stone P. 2020.8 Grounded action transformation for sim-to-real reinforcement learning.](https://arxiv.org/abs/2008.01279)
