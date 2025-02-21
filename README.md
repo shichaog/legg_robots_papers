@@ -5,11 +5,17 @@ This repo is papers of legged robots' mobility (locomotion and navigation).
 
 ** Diverse Real **
 [Jenelten F, He J, Farshidian F, Hutter M. 2023.9 DTC: Deep tracking control. Sci. Robot.](https://arxiv.org/pdf/2309.15462)
+
 [Nahrendra IMA, Yu B, Myung H. 2023.5 DreamWaQ: Learning robust quadrupedal locomotion with implicit terrain imagination via deep reinforcement learning. In IEEE Int. Conf. Robot. Autom.](https://arxiv.org/pdf/2301.10602)
+
 [Yang R, Yang G, Wang X. 2023.4 Neural volumetric memory for visual locomotion control. In IEEE/CVF Conf. Comput. Vis. Pattern Recognit.](https://arxiv.org/pdf/2304.01201)
+
 [Loquercio A, Kumar A, Malik J. 2022.11 Learning visual locomotion with cross-modal supervision. ](https://arxiv.org/pdf/2211.03785)
+
 [Agarwal A, Kumar A, Malik J, Pathak D. 2022.11 Legged locomotion in challenging terrains using egocentric vision. In Conf. Robot Learn.](https://arxiv.org/pdf/2211.07638)
+
 [Gangapurwala S, Geisert M, Orsolino R, Fallon M, Havoutis I. 2022.5 RLOC: Terrain-awarelegged locomotion using reinforcement learning and optimal control.](https://arxiv.org/pdf/2012.03094)
+
 [Miki T, Lee J, Hwangbo J, Wellhausen L, Koltun V, Hutter M. 2022.1 Learning robust perceptive locomotion for quadrupedal robots in the wild. Sci. Robot.](https://arxiv.org/pdf/2201.08117)
 [Kumar A, Fu Z, Pathak D, Malik J. 2021.7 RMA: Rapid motor adaptation for legged robots. In Robot. Sci. Syst.](https://arxiv.org/pdf/2107.04034)
 [Lee J, Hwangbo J, Wellhausen L, Koltun V, Hutter M. 2020.10 Learning quadrupedal locomotion over challenging terrain. Sci. Robot.](https://arxiv.org/pdf/2010.11251)超高引用率文章
